@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔧 Full-Stack Developer | Backend Enthusiast | AI & ML Learner | Business Analyst<br><br>I'm currently working on: Developing scalable web apps and integrating AI/ML models.<br><br>I'm currently learning: Advanced ML algorithms and cloud computing.<br><br>Ask me about: Backend development, Python automation, and data analytics.<br><br>Fun Fact: I built a Python script that auto-generates memes based on trending topics!
+🔧Technical Program Manager | AI & ML Learner | Business Analyst<br><br>I'm currently working on: Developing scalable web apps and integrating AI/ML models.<br><br>I'm currently learning: Advanced ML algorithms and cloud computing.<br><br>Ask me about: Backend development, Python automation, and data analytics.<br><br>Fun Fact: I built a Python script that auto-generates memes based on trending topics!
 
 
 ## 🌐 Socials:
